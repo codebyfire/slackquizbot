@@ -1,0 +1,28 @@
+{
+  "name": "slackquizbot",
+  "version": "0.1.0",
+  "description": "A Slack bot who can run customisable quizzes in a Slack channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallis2xk/slackquizbot.git"
+  },
+  "keywords": [
+    "slack",
+    "bot",
+    "quiz"
+  ],
+  "dependencies": {
+    "eventemitter3": "^1.1.1",
+    "slackbotapi": "*"
+  },
+  "author": "Richard Wallis <codebyfire@gmail.com> (http://codebyfire.com)",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/wallis2xk/slackquizbot/issues"
+  },
+  "homepage": "https://github.com/wallis2xk/slackquizbot#readme"
+}
