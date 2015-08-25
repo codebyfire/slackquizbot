@@ -1,0 +1,149 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Slack Quizbot by codebyfire</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-dark.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="stylesheets/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+      <div id="header">
+        <nav>
+          <li class="fork"><a href="https://github.com/codebyfire/slackquizbot">View On GitHub</a></li>
+          <li class="downloads"><a href="https://github.com/codebyfire/slackquizbot/zipball/master">ZIP</a></li>
+          <li class="downloads"><a href="https://github.com/codebyfire/slackquizbot/tarball/master">TAR</a></li>
+          <li class="title">DOWNLOADS</li>
+        </nav>
+      </div><!-- end header -->
+
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1>Slack Quizbot</h1>
+          <p>A bot who can run customisable quizzes in your Slack channels</p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/codebyfire">codebyfire</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+        </div>
+
+        <h1>
+<a id="slack-quizbot" class="anchor" href="#slack-quizbot" aria-hidden="true"><span class="octicon octicon-link"></span></a>Slack Quizbot</h1>
+
+<p>A NodeJS module using Slack's RTM to allow a Slack bot to run quizzes in your Slack channel. There are some quizzes included come included but you can create your own quiz with the <a href="http://codebyfire.github.io/slackquizbotbuilder">Slack Quizbot Quiz Builder</a></p>
+
+<h2>
+<a id="requirements" class="anchor" href="#requirements" aria-hidden="true"><span class="octicon octicon-link"></span></a>Requirements</h2>
+
+<ul>
+<li>Slack bot - instructions on how to create a bot for your team at <a href="https://api.slack.com/bot-users">https://api.slack.com/bot-users</a>
+</li>
+<li>NodeJS - Download NodeJS from <a href="https://nodejs.org/download/">https://nodejs.org/download/</a>
+</li>
+</ul>
+
+<h2>
+<a id="installation" class="anchor" href="#installation" aria-hidden="true"><span class="octicon octicon-link"></span></a>Installation</h2>
+
+<p>Create a folder and install slackquizbot at that location: </p>
+
+<pre lang="nodejs"><code>npm install slackquizbot
+</code></pre>
+
+<p>Create an myquizbot.js file containing the following, adding in your unique bot token:</p>
+
+<div class="highlight highlight-js"><pre><span class="pl-k">var</span> QuizBot <span class="pl-k">=</span> <span class="pl-c1">require</span>(<span class="pl-s"><span class="pl-pds">'</span>slackbotquiz<span class="pl-pds">'</span></span>);
+<span class="pl-k">var</span> myQuizBot <span class="pl-k">=</span> <span class="pl-k">new</span> <span class="pl-en">QuizBot</span>(<span class="pl-s"><span class="pl-pds">"</span>_YOUR_SLACK_BOT_TOKEN_<span class="pl-pds">"</span></span>);</pre></div>
+
+<p>Activate your Quizbot:</p>
+
+<pre lang="nodejs"><code>node myquizbot.js
+</code></pre>
+
+<h2>
+<a id="bot-commands" class="anchor" href="#bot-commands" aria-hidden="true"><span class="octicon octicon-link"></span></a>Bot Commands</h2>
+
+<p>Make sure your bot is present in the channel you want to run the quiz in. All commands will also work in DMs with your bot so you can test these commands privately.</p>
+
+<h4>
+<a id="list-quizzes" class="anchor" href="#list-quizzes" aria-hidden="true"><span class="octicon octicon-link"></span></a>List quizzes</h4>
+
+<p>Ask Quizbot to tell you all the available quizzes</p>
+
+<blockquote>
+<p><a href="https://github.com/quizbot" class="user-mention">@quizbot</a> list quizzes</p>
+</blockquote>
+
+<h4>
+<a id="start-quiz-" class="anchor" href="#start-quiz-" aria-hidden="true"><span class="octicon octicon-link"></span></a>Start quiz </h4>
+
+<p>Start the general knowledge quiz</p>
+
+<blockquote>
+<p><a href="https://github.com/quizbot" class="user-mention">@quizbot</a> start quiz gk</p>
+</blockquote>
+
+<h4>
+<a id="answering-questions" class="anchor" href="#answering-questions" aria-hidden="true"><span class="octicon octicon-link"></span></a>Answering questions</h4>
+
+<p>Whenever a question is active Quizbot will search for any matching answers automatically</p>
+
+<h4>
+<a id="pause-quiz" class="anchor" href="#pause-quiz" aria-hidden="true"><span class="octicon octicon-link"></span></a>Pause quiz</h4>
+
+<p>To pause a quiz for any reason</p>
+
+<blockquote>
+<p><a href="https://github.com/quizbot" class="user-mention">@quizbot</a> pause quiz</p>
+</blockquote>
+
+<h4>
+<a id="resume-quiz" class="anchor" href="#resume-quiz" aria-hidden="true"><span class="octicon octicon-link"></span></a>Resume quiz</h4>
+
+<p>Resume a paused quiz</p>
+
+<blockquote>
+<p><a href="https://github.com/quizbot" class="user-mention">@quizbot</a> resume quiz</p>
+</blockquote>
+
+<h4>
+<a id="stop-quiz" class="anchor" href="#stop-quiz" aria-hidden="true"><span class="octicon octicon-link"></span></a>Stop quiz</h4>
+
+<p>To prematurely stop a quiz</p>
+
+<blockquote>
+<p><a href="https://github.com/quizbot" class="user-mention">@quizbot</a> stop quiz</p>
+</blockquote>
+
+<h2>
+<a id="create-your-own-quizzes" class="anchor" href="#create-your-own-quizzes" aria-hidden="true"><span class="octicon octicon-link"></span></a>Create your own quizzes</h2>
+
+<p>You can create your own quizzes using the <a href="http://codebyfire.github.io/slackquizbotbuilder">Slack Quizbot Quiz Builder</a>. Once you've downloaded your JSON file, you can use it by either directly placing the file in a local folder called 'ata' or in Slack you can upload the file in a DM to your bot.</p>
+      </section>
+
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-13138213-7");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+  </body>
+</html>
