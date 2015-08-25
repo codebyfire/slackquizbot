@@ -43,11 +43,15 @@ Start the general_knowledge quiz
 Whenever a question is active Quizbot will search for any matching answers automatically
 
 #### Pause quiz
-If you want to pause a quiz for any reason
+To pause a quiz for any reason
 > @quizbot pause quiz
 
+#### Resume quiz
+Resume a paused quiz
+> @quizbot resume quiz
+
 #### Stop quiz
-If you want to prematurely stop a quiz
+To prematurely stop a quiz
 > @quizbot stop quiz
 
 ## Create your own quizzes
