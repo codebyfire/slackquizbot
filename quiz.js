@@ -28,7 +28,7 @@ function Quiz() {
         nextQuestionGap: 10,
         pointsPerQuestion: 1,
         showScoreInterval: 5,
-        timeBetweenIncorrectResponses: 5
+        timeBetweenIncorrectResponses: 10
     };
     this.state = QuizState.IDLE;
     this.currentQuestionIndex = 0;
@@ -117,7 +117,7 @@ Quiz.prototype.endQuestion = function() {
     this.state = QuizState.QUESTION_ANSWERED;
     clearInterval(this.interval);
     this.showScoreCount++;
-    if(this.showScoreCount >= this.settings.showScoreInterval && this.scores.length > 0) {
+    if(this.showScoreCount >= this.settings.showScoreInterval && this.scores.length > 0 && this.currentQuestionIndex < this.questions.length-1) {
         setTimeout((function() {this.emit(QuizEvents.SHOW_SCORES, this);}.bind(this)), 3000);
         this.showScoreCount = 0;
         setTimeout(this.nextQuestion.bind(this), 3000 + this.settings.nextQuestionGap * 1000);
@@ -126,11 +126,13 @@ Quiz.prototype.endQuestion = function() {
     }
 };
 Quiz.prototype.nextQuestion = function() {
-    if(this.currentQuestionIndex < this.questions.length-1) {
-        this.currentQuestionIndex++;
-        this.startQuestion();
-    }else{
-        this.complete();
+    if(this.state == QuizState.QUESTION_ANSWERED) {
+        if(this.currentQuestionIndex < this.questions.length-1) {
+            this.currentQuestionIndex++;
+            this.startQuestion();
+        }else{
+            this.complete();
+        }
     }
 };
 Quiz.prototype.complete = function() {
@@ -141,6 +143,7 @@ Quiz.prototype.isQuestionActive = function() {
     return this.state == QuizState.QUESTION_PENDING;
 };
 Quiz.prototype.checkAnswer = function(text, user) {
+    if(user == null) return;
     var userText = text.toLowerCase();
     var i = this.currentQuestion.pendingAnswers.length-1;
     var correctAnswers = [];

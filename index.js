@@ -295,14 +295,6 @@ QuizBot.prototype.onSlackMessage = function(slackMsgData) {
 		}else if(slackMsgData.text.match(/(list quizzes)\b/ig)) {
 			this.listQuizzes(slackMsgData.channel);
 		}
-		
-		//var content = data.text.substring(this.id.length+3);
-		//wait
-		//skip
-		//slack.sendMsg(data.channel, "Alright! Loading " + data2 + "..." + " http://codebyfire.com/bristolgameshubquiz/images/test.mp3");
-		//this.quiz.start();
-		//var question = this.quiz.getCurrentQuestion();
-		//slack.sendMsg(data.channel, "Question: " + question.q);
 	}else{
 		//listen for normal text
 		if(quiz != null) {
@@ -310,9 +302,6 @@ QuizBot.prototype.onSlackMessage = function(slackMsgData) {
 				quiz.checkAnswer(slackMsgData.text, user);
 			}	
 		}
-		//if(this.quiz.isQuestionActive()) {
-		//	this.quiz.checkAnswer(slackMsgData.text, user);
-		//}
 	}
 };
 

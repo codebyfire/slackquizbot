@@ -51,4 +51,4 @@ If you want to prematurely stop a quiz
 > @quizbot stop quiz
 
 ## Create your own quizzes
-You can create your own quizzes using the [Slack Quizbot Quiz Generator](codebyfire.github.io/slackquizbotbuilder). Once you've downloaded your JSON file, you can use it by either directly placing the file in a local folder called 'ata' or in Slack you can upload the file in a DM to your bot.
+You can create your own quizzes using the [Slack Quizbot Quiz Builder](codebyfire.github.io/slackquizbotbuilder). Once you've downloaded your JSON file, you can use it by either directly placing the file in a local folder called 'ata' or in Slack you can upload the file in a DM to your bot.
