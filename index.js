@@ -5,7 +5,7 @@ var Quiz = require('./quiz.js');
 function QuizBot(slackToken) {
 	this.slack = new SlackAPI({
 		'token': slackToken,
-		'logging': true
+		'logging': false
 	});
 	
 	this.slack.on('hello', this.onConnectToSlack.bind(this));
@@ -138,7 +138,7 @@ QuizBot.prototype.onQuizLoadSuccess = function(data, slackChannel) {
 	quiz.start();
 };
 QuizBot.prototype.onQuizLoadFailed = function(slackChannel, quizId) {
-    this.slack.sendMsg(slackChannel, this.getLocale(null, 'quizLoadFailed').replace("<quizId>", quizId));// + " [" + err + "]");
+    this.slack.sendMsg(slackChannel, this.getLocale(null, quizId.length == 0 ? 'quizLoadFailedEmpty' : 'quizLoadFailed').replace("<quizId>", quizId));// + " [" + err + "]");
 };
 
 QuizBot.prototype.startQuiz = function(quiz, slackChannel, quizId) {
@@ -267,6 +267,7 @@ QuizBot.prototype.getQuizByChannel = function(slackChannel) {
 QuizBot.prototype.onConnectToSlack = function(data) {
     this.name = this.slack.slackData.self.name;
 	this.id = this.slack.slackData.self.id;
+	console.log("Quizbot [" + this.name + "] is up and running!");
 };
 
 QuizBot.prototype.onSlackMessage = function(slackMsgData) {

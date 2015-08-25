@@ -4,8 +4,12 @@
 		"I'm ready to go, are you?"
 	],
 	"quizLoadFailed":[
-		"Nope, couldn't find the <quizId> quiz :disappointed:",
-		"Sorry, I can't locate the <quizId> quiz..."
+		"Nope, couldn't find the <quizId> quiz!",
+		"Sorry, I can't locate the <quizId> quiz...",
+		"<quizId> is not a valid quiz."
+	],
+	"quizLoadFailedEmpty":[
+		"You need to enter a quiz id, like 'start quiz gk'!"
 	],
 	"quizAlreadyRunning":[
 		"There's already a quiz running!"

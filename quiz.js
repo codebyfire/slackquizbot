@@ -27,7 +27,7 @@ function Quiz() {
         questionTime: 30,
         nextQuestionGap: 10,
         pointsPerQuestion: 1,
-        showScoreInterval: 3,
+        showScoreInterval: 5,
         timeBetweenIncorrectResponses: 5
     };
     this.state = QuizState.IDLE;
@@ -47,6 +47,9 @@ Quiz.prototype.init = function(data, slackChannel) {
     }
     if(this.settings.randomise) {
         this.questions = Quiz.prototype.shuffle(this.questions);
+    }
+    if(this.settings.hasOwnProperty("totalQuestions")) {
+        this.questions.splice(0, this.questions.length - this.settings.totalQuestions);
     }
     this.locale = data.locale;
     this.slackChannel = slackChannel;
