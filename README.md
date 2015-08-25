@@ -1,6 +1,6 @@
 # Slack Quizbot
 
-A NodeJS module using Slack's RTM to allow a Slack bot to host user-generated quizzes in your Slack channels. A few quizzes come included but you can create your own quizzes at [Slack Quizbot Quiz Generator](codebyfire.github.io/slackquizbotbuilder)
+A NodeJS module using Slack's RTM to allow a Slack bot to run quizzes in your Slack channel. There are some quizzes included come included but you can create your own quiz with the [Slack Quizbot Quiz Builder](codebyfire.github.io/slackquizbotbuilder)
 
 ## Requirements
 * Slack bot - instructions on how to create a bot for your team at https://api.slack.com/bot-users

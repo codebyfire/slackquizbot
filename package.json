@@ -1,7 +1,7 @@
 {
   "name": "slackquizbot",
-  "version": "0.1.0",
-  "description": "A Slack bot who can run customisable quizzes in a Slack channel",
+  "version": "0.1.1",
+  "description": "A Slack bot who can run custom quizzes in your Slack channel",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
