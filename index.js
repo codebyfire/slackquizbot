@@ -142,7 +142,11 @@ QuizBot.prototype.onQuizLoadFailed = function(slackChannel, quizId) {
 };
 
 QuizBot.prototype.startQuiz = function(quiz, slackChannel, quizId) {
-	if(quiz == null) {
+	var isValid = true;
+	if(quiz != null && quiz.state > 0) {
+		isValid = false;
+	}
+	if(isValid) {
 		this.loadQuiz(slackChannel, quizId);
 	}else{
 		this.slack.sendMsg(slackChannel, this.getLocale(quiz, 'quizAlreadyRunning'));    	
@@ -170,6 +174,7 @@ QuizBot.prototype.stopQuiz = function(quiz, slackChannel) {
 	}else{
     	this.slack.sendMsg(slackChannel, this.getLocale(quiz, 'quizStopped'));
 		quiz.stop();
+		this.quizzes[slackChannel] = null;
 	}
 };
 
