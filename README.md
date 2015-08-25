@@ -8,20 +8,20 @@ A NodeJS module using Slack's RTM to allow a Slack bot to run quizzes in your Sl
 
 ## Installation
 
-Create a folder and install slackquizbot at that location: 
+Create a folder and install the slackquizbot module at that location: 
 
 ```nodejs
 npm install slackquizbot
 ```
 
-Create an myquizbot.js file containing the following, adding in your unique bot token:
+Create a myquizbot.js file containing the following, adding in your unique bot token:
 
 ```js
 var QuizBot = require('slackbotquiz');
 var myQuizBot = new QuizBot("_YOUR_SLACK_BOT_TOKEN_");
 ```
 
-Activate your Quizbot:
+Start your Quizbot:
 
 ```nodejs
 node myquizbot.js
