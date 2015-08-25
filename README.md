@@ -36,8 +36,8 @@ Ask Quizbot to tell you all the available quizzes
 > @quizbot list quizzes
 
 #### Start quiz <quiz_id>
-Start the general_knowledge quiz
-> @quizbot start quiz general_knowledge
+Start the general knowledge quiz
+> @quizbot start quiz gk
 
 #### Answering questions
 Whenever a question is active Quizbot will search for any matching answers automatically
