@@ -17,7 +17,7 @@ npm install slackquizbot
 Create a myquizbot.js file containing the following, adding in your unique bot token:
 
 ```js
-var QuizBot = require('slackbotquiz');
+var QuizBot = require('slackquizbot');
 var myQuizBot = new QuizBot("_YOUR_SLACK_BOT_TOKEN_");
 ```
 
