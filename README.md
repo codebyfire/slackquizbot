@@ -54,5 +54,9 @@ Resume a paused quiz
 To prematurely stop a quiz
 > @quizbot stop quiz
 
+#### Show scores
+To list everyone's current score
+> @quizbot show scores
+
 ## Create your own quizzes
 You can create your own quizzes using the [Slack Quizbot Quiz Builder](http://codebyfire.github.io/slackquizbotbuilder). Once you've downloaded your JSON file, you can use it by either directly placing the file in a local folder called 'ata' or in Slack you can upload the file in a DM to your bot.
