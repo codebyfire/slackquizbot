@@ -8,6 +8,10 @@
 		"Sorry, I can't locate the <quizId> quiz...",
 		"<quizId> is not a valid quiz."
 	],
+	"quizNotLoadedYet":[
+		"I'm not running a quiz at the minute!",
+		"There's no quiz running yet!"
+	],
 	"quizLoadFailedEmpty":[
 		"You need to enter a quiz id, like 'start quiz gk'!"
 	],

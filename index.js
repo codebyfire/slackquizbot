@@ -247,8 +247,12 @@ QuizBot.prototype.onCorrectAnswer = function(quiz, user, answers, points, answer
 	correctMsg = correctMsg.replace('<points>', pointsText);
     this.slack.sendMsg(quiz.slackChannel, "" + correctMsg + " " + answersRemainingText);
 };
-QuizBot.prototype.onShowScores = function(quiz) {
-    this.slack.sendMsg(quiz.slackChannel, this.getLocale(quiz, 'latestScores') + quiz.getScores(this.getLocale(quiz, 'leads')));
+QuizBot.prototype.onShowScores = function(quiz, slackChannel) {
+	if(quiz == null) {
+		this.slack.sendMsg(slackChannel, this.getLocale(quiz, 'quizNotLoadedYet'));
+	}else{
+    	this.slack.sendMsg(slackChannel, this.getLocale(quiz, 'latestScores') + quiz.getScores(this.getLocale(quiz, 'leads')));
+	}
 };
 QuizBot.prototype.onIncorrectAnswer = function(quiz, user) {
     this.slack.sendMsg(quiz.slackChannel, this.getLocale(quiz, 'incorrectAnswer'));
@@ -297,6 +301,8 @@ QuizBot.prototype.onSlackMessage = function(slackMsgData) {
 			this.stopQuiz(quiz, slackMsgData.channel);
 		}else if(slackMsgData.text.match(/(quiz status)\b/ig)) {
 			this.getQuizStatus(quiz, slackMsgData.channel);
+		}else if(slackMsgData.text.match(/(show scores)\b/ig)) {
+			this.onShowScores(quiz, slackMsgData.channel);
 		}else if(slackMsgData.text.match(/(list quizzes)\b/ig)) {
 			this.listQuizzes(slackMsgData.channel);
 		}
