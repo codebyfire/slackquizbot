@@ -1,6 +1,6 @@
 {
   "name": "slackquizbot",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "A Slack bot who can run custom quizzes in your Slack channel",
   "main": "index.js",
   "scripts": {
