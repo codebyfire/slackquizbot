@@ -1,6 +1,7 @@
 {
 	"quizLoadSuccess":[
 		"Alright, we're all set!!",
+		"Are you all ready, motherfuckers?",
 		"I'm ready to go, are you?"
 	],
 	"quizLoadFailed":[
@@ -24,6 +25,7 @@
 	],
 	"quizPaused":[
 		"Ok, we're going to take a little break..."
+		"Did some noobs just DC?..."
 	],
 	"quizResumed":[
 		"Ok, we're back!"
@@ -31,22 +33,29 @@
 	"quizStopped":[
 		"Ok, I've stopped the quiz.",
 		"Ok, bailing out..."
+		"Good game, well played.."
 	],
 	"correctAnswer":[
 		"<user> nails it with <answer>! That's <points>.",
+		"<user> nails it with <answer>! Well don google!",
 		"Motherfcuking <user> nails it with <answer>! That's <points>.",
 		"<user> has got it! It was <answer>! <points>.",
+		"<user> has got it! using google!",
 		"Well done <user>, <answer> is correct for <points>!",
 		"<answer>! Yes <user>, that's right! <points> to you.",
 		"Yes! <points> to <user> for <answer>."
+		"Yes! <points> to <user> for <answer>!, You cheater bastard"
 	],
 	"correctAnswers2":[
+		"<user> nails it with both <answer>! <points>!",
 		"Hoky fuck! <user> nails it with both <answer>! <points>!",
 		"Good one <user>, <answer> are correct! Have <points>!",
+		"Good one <user>, Check <user>'s computer, Google is opened!",
 		"Yes <user>, those are both right! <answer> get you <points>."
 	],
 	"correctAnswers":[
 		"<user> gets it with <answer>! That's <points>.",
+		"<user> gets it with <answer>! That guys might be cheating..",
 		"<user> has got it! It was <answer>. <points> awarded!",
 		"Well done <user>! <answer> are all correct! That's <points> to you!",
 		"Yes <user>, those are right! <answer> earn you <points>!"
@@ -61,24 +70,31 @@
 	],
 	"questionPrepFirst":[
 		"Ok, let's go! Here's the first question..."
+		"Ok, let's go! Here's the first question...you bastards!"
 	],
 	"questionPrep":[
 		"Here's the next question...",
 		"Ok, question number <number>...",
 		"Now for question <number>..."
+		"Next question <number>..."
 		"Next question <number>...noobs"
 	],
 	"questionPrepLast":[
 		"This is the last question!",
 		"Here comes the final question..."
+		"Here comes the final question...before I GTFO"
 	],
 	"questionTimeout":[
 		"Time's up!",
+		"Time's up! slow brains",
+		"Time's up!.. idiots",
 		"Bong! Time has run out on that one...",
 		"Nope? Ok, let's move on."
 	],
 	"incorrectAnswer":[
 		"Nope...",
+		"Are you that stupid?...",
+		"Nope...you retard!",
 		"No, fuck you!...",
 		"Incorrect",
 		"Incorrect idiot!",
@@ -88,6 +104,7 @@
 		"Wrong motherhood, neighborfucker!",
 		"Not the right answer..."
 		"Not the right answer..., noob!"
+		"Can you think of a better one?"
 	],
 	"correctAnswerSingle":[
 		"The correct answer is <data>",
@@ -110,6 +127,7 @@
 		"wins",
 		"triumphs",
 		"is victorious"	
+		"is motherfucking victorious cheater"	
 	],
 	"latestScores":[
 		"Here are the scores :trophy: ",
