@@ -198,7 +198,7 @@ QuizBot.prototype.onQuestionStarted = function(quiz, question) {
 		text = pointsPrefix + "*" + question.text.substring(0, 1).toLowerCase() + question.text.substring(1) + "* " + (question.image != null ? question.image : "");
 	}
    	else{
-		text = question.text + "* " + (question.image != null ? question.image : "");
+		text = "*" + question.text + "* " + (question.image != null ? question.image : "");
 	
 	}	
 	this.slack.sendMsg(quiz.slackChannel, text);
