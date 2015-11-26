@@ -1,1 +1,377 @@
-{"questions":[{"text":"What is the capital of France?","answers":[{"text":["Paris"]}],"answersNeeded":1},{"text":"What is arachnophobia a fear of?","answers":[{"text":["Spiders","spider"]}],"answersNeeded":1},{"text":"Name these film stars","answers":[{"text":["Harrison Ford"]},{"text":["Meryl Streep"]},{"text":["Johnny Depp","Jonny Depp"]},{"text":["Jodie Foster"]}],"image":"http://i61.tinypic.com/2ronzih.png","points":1,"time":120},{"text":"The inventor of the mercury thermometer, Gabriel Fahrenheit, was from which country?","answers":[{"text":["Germany"]}]},{"text":"What is the chemical symbol for lead?","answers":[{"text":["Pb"]}]},{"text":"What would you find in a philatelist's collection?","answers":[{"text":["Stamps","Stamp"]}]},{"text":"Who is this athlete, the current mens 100 metre world record holder?","answers":[{"text":["Usain Bolt"]}],"image":"http://i58.tinypic.com/a1nu45.jpg"},{"text":"The cob and pen are the male and female names respectively of which bird?","answers":[{"text":["swan"]}]},{"text":"What is the name of the scale used for measuring earthquakes?","answers":[{"text":["Richter scale","Richter"]}]},{"text":"Name the seven dwarfs as appeared in Disney's 1937 film Snow White and the Seven Dwarfs","answers":[{"text":["Happy"]},{"text":["Sleepy"]},{"text":["Grumpy"]},{"text":["Dopey"]},{"text":["Sneezy"]},{"text":["Bashful"]},{"text":["Doc"]}],"points":1}],"settings":{"startQuestionGap":3,"questionTime":60,"nextQuestionGap":10,"pointsPerQuestion":2}}
+{
+  "questions": [
+    {
+      "text": "_____ is by far the healthiest snack. It builds bone, muscle, tissue, aids digestion, and is good for the teeth.",
+      "answers": [
+        {
+          "text": [
+            "popcorn"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Hexakosioihexekontahexaphobia is the fear of the number ___ ?",
+      "answers": [
+        {
+          "text": [
+            "666"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Cotton Candy was invented by a ____",
+      "answers": [
+        {
+          "text": [
+            "Dentist"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The _____ in Mario games are based on a real species called 'Amanita Muscaria' that when eaten, make people feel like they're growing?",
+      "answers": [
+        {
+          "text": [
+            "mushroom"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The medical term for _____ headaches is sphenopalatine ganglioneuralgia. Clue: causes brain freeze",
+      "answers": [
+        {
+          "text": [
+            "ice cream"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "True or False :  In the original story of \"The Little Mermaid,\" Ariel doesn't marry the prince. He marries someone else, and she kills herself.",
+      "answers": [
+        {
+          "text": [
+            "True"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Penguins have an organ near the ____ that filters salt from the water out of their system",
+      "answers": [
+        {
+          "text": [
+            "eyes"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Daniel Radcliffe was in the ____ when he found out he'd been cast as Harry Potter. He cried.",
+      "answers": [
+        {
+          "text": [
+            "Bath"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "_______ is the fear of being without your mobile phone or losing your signal.",
+      "answers": [
+        {
+          "text": [
+            "nomophobia"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Banana ketchup is popular in the _____.",
+      "answers": [
+        {
+          "text": [
+            "philippines"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The most shoplifted book of all time is the _____",
+      "answers": [
+        {
+          "text": [
+            "Bible"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "______ have killed more humans than all the wars in history.",
+      "answers": [
+        {
+          "text": [
+            "mosquitoes"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Biting the --- triggers a rush of chemicals to the brain which reduce anxiety, stress and increases mood.",
+      "answers": [
+        {
+          "text": [
+            "lip"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "A brain gets in good shape by memorizing a _____",
+      "answers": [
+        {
+          "text": [
+            "song"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Sleeping without a --- improves quality of sleep by over 95% and is an effective way of treating insomnia. Clue: female underwear.",
+      "answers": [
+        {
+          "text": [
+            "Bra"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "_______ in the shower helps boost your immunity, lower your blood pressure, reduce stress, and improve your mood",
+      "answers": [
+        {
+          "text": [
+            "Singing"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The letter __ was the last letter added to the English alphabet",
+      "answers": [
+        {
+          "text": [
+            "J"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Only 2% of the world's population has _____ eyes.",
+      "answers": [
+        {
+          "text": [
+            "green"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The male brain is ___ % bigger than the female's but the female brain works more efficiently.",
+      "answers": [
+        {
+          "text": [
+            "10%"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Strawberries are a member of the ____ family\nCLUE: flower",
+      "answers": [
+        {
+          "text": [
+            "Rose"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "",
+      "answers": [
+        {
+          "text": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the capital of France?",
+      "answers": [
+        {
+          "text": [
+            "Paris"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "What is arachnophobia a fear of?",
+      "answers": [
+        {
+          "text": [
+            "Spiders",
+            "spider"
+          ]
+        }
+      ],
+      "answersNeeded": 1
+    },
+    {
+      "text": "Name these film stars",
+      "answers": [
+        {
+          "text": [
+            "Harrison Ford"
+          ]
+        },
+        {
+          "text": [
+            "Meryl Streep"
+          ]
+        },
+        {
+          "text": [
+            "Johnny Depp",
+            "Jonny Depp"
+          ]
+        },
+        {
+          "text": [
+            "Jodie Foster"
+          ]
+        }
+      ],
+      "image": "http://i61.tinypic.com/2ronzih.png",
+      "points": 1,
+      "time": 120
+    },
+    {
+      "text": "The inventor of the mercury thermometer, Gabriel Fahrenheit, was from which country?",
+      "answers": [
+        {
+          "text": [
+            "Germany"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the chemical symbol for lead?",
+      "answers": [
+        {
+          "text": [
+            "Pb"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What would you find in a philatelist's collection?",
+      "answers": [
+        {
+          "text": [
+            "Stamps",
+            "Stamp"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who is this athlete, the current mens 100 metre world record holder? Initials: UB",
+      "answers": [
+        {
+          "text": [
+            "Usain Bolt"
+          ]T
+        }
+      ],
+      "image": "http://i58.tinypic.com/a1nu45.jpg"
+    },
+    {
+      "text": "The cob and pen are the male and female names respectively of which bird?",
+      "answers": [
+        {
+          "text": [
+            "swan"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the name of the scale used for measuring earthquakes?",
+      "answers": [
+        {
+          "text": [
+            "Richter scale",
+            "Richter"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Name the seven dwarfs as appeared in Disney's 1937 film Snow White and the Seven Dwarfs",
+      "answers": [
+        {
+          "text": [
+            "Happy"
+          ]
+        },
+        {
+          "text": [
+            "Sleepy"
+          ]
+        },
+        {
+          "text": [
+            "Grumpy"
+          ]
+        },
+        {
+          "text": [
+            "Dopey"
+          ]
+        },
+        {
+          "text": [
+            "Sneezy"
+          ]
+        },
+        {
+          "text": [
+            "Bashful"
+          ]
+        },
+        {
+          "text": [
+            "Doc"
+          ]
+        }
+      ],
+      "points": 1
+    }
+  ],
+  "settings": {
+    "startQuestionGap": 3,
+    "questionTime": 60,
+    "nextQuestionGap": 10,
+    "pointsPerQuestion": 1,
+    "randomise": true
+  }
+}

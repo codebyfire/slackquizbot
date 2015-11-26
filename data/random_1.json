@@ -1,0 +1,213 @@
+{
+  "questions": [
+    {
+      "text": "What nation produces two thirds of the world's vanilla? Clue: starts with letter M",
+      "answers": [
+        {
+          "text": [
+            "Madagascar"
+          ]
+        }
+      ],
+      "image": ""
+    },
+    {
+      "text": "What is the most widely eaten fish in the world? Clue: starts with H.",
+      "answers": [
+        {
+          "text": [
+            "Herring"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What bird was domesticated first? Long neck, wide wings.",
+      "answers": [
+        {
+          "text": [
+            "Goose"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What's the common name for a cubic decimeter?",
+      "answers": [
+        {
+          "text": [
+            "Liter"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What socialist writer's last words were: \"Last words are for fools who haven't said enough\"?",
+      "answers": [
+        {
+          "text": [
+            "Karl Marx",
+            "marx"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What Italian astronomer invented the thermometer in 1592?",
+      "answers": [
+        {
+          "text": [
+            "Galileo"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which country gave the USA the 'Statute of Liberty?",
+      "answers": [
+        {
+          "text": [
+            "France"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What measure of energy comes from the Latin word meaning \"heat\"?",
+      "answers": [
+        {
+          "text": [
+            "Calorie"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who averaged one patent for every three weeks of his life?",
+      "answers": [
+        {
+          "text": [
+            "Thomas Edison"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What mathematical symbol did math whiz Ferdinand von Lindemann determine to be a transcendental number in 1882?",
+      "answers": [
+        {
+          "text": [
+            "Pi"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "----- is the strongest bone in the human body.",
+      "answers": [
+        {
+          "text": [
+            "Femur"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Your tongue has how many thousand tastebuds?",
+      "answers": [
+        {
+          "text": [
+            "3"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "---- can sleep standing up.",
+      "answers": [
+        {
+          "text": [
+            "Cows"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "These reptiles breath through their skin.",
+      "answers": [
+        {
+          "text": [
+            "Salamanders"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "____________ is the only continent on earth without an active volcano.",
+      "answers": [
+        {
+          "text": [
+            "Australia"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "----- is the scientific name for 1/100th of a second.",
+      "answers": [
+        {
+          "text": [
+            "Jiffy"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The youngest pope ever was -- years old.",
+      "answers": [
+        {
+          "text": [
+            "11"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "____________ is the only planet that rotates clockwise.",
+      "answers": [
+        {
+          "text": [
+            "Venus"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "____________ is the fear of teeth.",
+      "answers": [
+        {
+          "text": [
+            "Odontophobia"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The name of the woman on the statue of liberty is Mother of ------.",
+      "answers": [
+        {
+          "text": [
+            "Exiles"
+          ]
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "startQuestionGap": 3,
+    "questionTime": 60,
+    "nextQuestionGap": 10,
+    "pointsPerQuestion": 1,
+    "randomise": false
+  }
+}

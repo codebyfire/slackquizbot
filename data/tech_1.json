@@ -1,0 +1,544 @@
+{
+  "questions": [
+    {
+      "text": "Which operation takes more than O(1) time with the Hash Table data structure?",
+      "answers": [
+        {
+          "text": [
+            "Sort",
+            "sort"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "If you need to sort a very large list of integers (billions), what efficient sorting algorithm would be your best bet?",
+      "answers": [
+        {
+          "text": [
+            "Quicksort",
+            "quicksort"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What mega media company merged with AOL at the turn of the century? Clue: initials are TW.",
+      "answers": [
+        {
+          "text": [
+            "Time Warner",
+            "TW",
+            "time warner"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What do they call people who register domain names with the hope of selling them for a profit",
+      "answers": [
+        {
+          "text": [
+            "squatters",
+            "Squatters",
+            "Cybersquatters",
+            "cybersquatters"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Name one of authors of the book The C programming language. The authors are often referred to as K&R.",
+      "answers": [
+        {
+          "text": [
+            "Brian Kernighan",
+            "Dennis Ritchie"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Dennis Richie also developed what computer operating system at Bell labs with Ken Thompson and Douglas Mcllroy?",
+      "answers": [
+        {
+          "text": [
+            "Unix"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Name the primary creator of the Java programming language.",
+      "answers": [
+        {
+          "text": [
+            "James Gosling"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "In 1914, Thomas J Watson renamed the Computing Tabulating Recording Corporation (CTR) to what?",
+      "answers": [
+        {
+          "text": [
+            "IBM"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Name the famous computer scientist who worked to break Nazi codes at Bletchley Park during WWII.",
+      "answers": [
+        {
+          "text": [
+            "Alan Turing"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who single handedly built the first Apple computer that launched the personal computing era?",
+      "answers": [
+        {
+          "text": [
+            "Steve Wozniak",
+            "Woz"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the year of the Unix epoch?",
+      "answers": [
+        {
+          "text": [
+            "1970"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What does the company AMD stand for?",
+      "answers": [
+        {
+          "text": [
+            "Advanced Micro Devices"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who wrote a BASIC version for the 8080 microprocessor, Altair, in 1975?",
+      "answers": [
+        {
+          "text": [
+            "Bill Gates",
+            "Paul Allen"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who is the Ada programming language named after?",
+      "answers": [
+        {
+          "text": [
+            "Ada Lovelace"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which Google vice president co-designed TCP/IP is regarded by some as the father of the Internet?",
+      "answers": [
+        {
+          "text": [
+            "Vint Cerf"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Vint Cerf is regarded as the father of the Internet but who is the person that actually invented the World Wide Web?",
+      "answers": [
+        {
+          "text": [
+            "Tim Berners-Lee"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Into how many zones are DVD’s divided worldwide?",
+      "answers": [
+        {
+          "text": [
+            "Eight",
+            "8"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The Apple ---- was the first computer to have a GUI and a mouse.",
+      "answers": [
+        {
+          "text": [
+            "Lisa"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Name one the founders of Yahoo.",
+      "answers": [
+        {
+          "text": [
+            "David Filo",
+            "Jerry Yang"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who founded the Free Software Foundation?",
+      "answers": [
+        {
+          "text": [
+            "Richard Stallman"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which company is the largest manufacturer of network equipment?",
+      "answers": [
+        {
+          "text": [
+            "Cisco"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is CE in Windows CE stand for?",
+      "answers": [
+        {
+          "text": [
+            "Consumer Electronics"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is BSD in BSD Unix?",
+      "answers": [
+        {
+          "text": [
+            "Berkley Software Distribution"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the name of the popular free software license written by Richard Stallman for the GNU project?",
+      "answers": [
+        {
+          "text": [
+            "GPL",
+            "GNU Public License"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What year was Google founded?",
+      "answers": [
+        {
+          "text": [
+            "1998"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What free loving programmer created the GCC compiler and the original Emacs?",
+      "answers": [
+        {
+          "text": [
+            "Richard Stallman"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What company is the world's largest maker of computer mice?",
+      "answers": [
+        {
+          "text": [
+            "Logitech"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What was the first full-length computer generated feature film?",
+      "answers": [
+        {
+          "text": [
+            "Toy story"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which company invented the floppy disk?",
+      "answers": [
+        {
+          "text": [
+            "IBM"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the name of Linux’s Mascot?",
+      "answers": [
+        {
+          "text": [
+            "Tux"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "A nibble is how many bits?",
+      "answers": [
+        {
+          "text": [
+            "4"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What game system was the first to offer online gaming?",
+      "answers": [
+        {
+          "text": [
+            "Dreamcast"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What Apple media file format became the basis for MPEG-4 files?",
+      "answers": [
+        {
+          "text": [
+            "QuickTime"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What does the computer acronym PnP stand for?",
+      "answers": [
+        {
+          "text": [
+            "Plug & Play",
+            "Plug n Play",
+            "Plug and Play"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What file-sharing software was named for creator Shawn Fanning’s frizzy hair?",
+      "answers": [
+        {
+          "text": [
+            "Napster"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What does the “W” stand for on a WAP phone?",
+      "answers": [
+        {
+          "text": [
+            "wireless"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "How many zeros are in a Googol?",
+      "answers": [
+        {
+          "text": [
+            "100"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What chess-playing computer developed by IBM that defeated world champion Garry Kasparov in 1997? Feel free to Google this one. LOL.",
+      "answers": [
+        {
+          "text": [
+            "Deep blue"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Amazon has recently released a variety of services for web developers. Some of these services are Elastic Compute Cloud (ECC), Simple Storage Service (S3), SimpleDB, and several others. Collectively these services are known as what?",
+      "answers": [
+        {
+          "text": [
+            "Amazon Web Services",
+            "AWS"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Complete this quote: Computers are useless. They can only give you a-----s. (Pablo Picasso)",
+      "answers": [
+        {
+          "text": [
+            "answers"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "An Athlon 600 mhz CPU has -- million transistors. Clue: between 10 and 40.",
+      "answers": [
+        {
+          "text": [
+            "22"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "There are -- million lines of code in Windows 98. Clue: two digit less than 20.",
+      "answers": [
+        {
+          "text": [
+            "18"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The M in MP3 stands for ----",
+      "answers": [
+        {
+          "text": [
+            "MPEG"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "An outbreak in which multiplayer video game attracted the attention of epidemiologists?",
+      "answers": [
+        {
+          "text": [
+            "World of Warcraft",
+            "wow"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What was the first computer with internally stored programs? Clue: four capital letters.",
+      "answers": [
+        {
+          "text": [
+            "SSEM"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Before it became Google's email domain, fans of which known cat used Gmail.com?",
+      "answers": [
+        {
+          "text": [
+            "garfield"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which popular CD burning app’s name is a historical pun?",
+      "answers": [
+        {
+          "text": [
+            "Nero"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Nintendo’s only attempt into breakfast cereal featured which characters?",
+      "answers": [
+        {
+          "text": [
+            "mario"
+          ]
+        },
+        {
+          "text": [
+            "link"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What preinstalled Windows game was secretly intended to increase mouse proficiency?",
+      "answers": [
+        {
+          "text": [
+            "Solitaire"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The first Google server was built from what? Clue: kiddie thingies.",
+      "answers": [
+        {
+          "text": [
+            "LEGO"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "",
+      "answers": [
+        {
+          "text": [
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "startQuestionGap": 3,
+    "questionTime": 90,
+    "nextQuestionGap": 10,
+    "pointsPerQuestion": 3,
+    "randomise": true,
+    "questionGap": 10
+  }
+}

@@ -2,7 +2,8 @@
   "quizLoadSuccess": [
     "Alright, we're all set!!",
     "Are you all ready, motherfuckers?",
-    "I'm ready to go, are you?"
+    "I'm ready to go, are you?",
+    "Ready? Set? You dumb bitches to go?"
   ],
   "quizLoadFailed": [
     "Nope, couldn't find the <quizId> quiz!",
@@ -37,20 +38,22 @@
   ],
   "correctAnswer": [
     "<user> nails it with <answer>! That's <points>.",
-    "<user> nails it with <answer>! Well don google!",
-    "Motherfcuking <user> nails it with <answer>! That's <points>.",
+    "<user> nails it with <answer>! Well done, Google!",
+    "Motherfucking <user> nails it with <answer>! That's <points>.",
     "<user> has got it! It was <answer>! <points>.",
-    "<user> has got it! using google!",
+    "<user> has got it! Using Google!",
     "Well done <user>, <answer> is correct for <points>!",
     "<answer>! Yes <user>, that's right! <points> to you.",
     "Yes! <points> to <user> for <answer>.",
-    "Yes! <points> to <user> for <answer>!, You cheater bastard"
+    "Yes! <points> to <user> for <answer>! You cheating bastard.",
+    "<points> to <user> for <answer>. And I thought you were hopeless.",
+    "And the award of fastest Google skills goes to <user> for <points>!"
   ],
   "correctAnswers2": [
     "<user> nails it with both <answer>! <points>!",
-    "Hoky fuck! <user> nails it with both <answer>! <points>!",
+    "Holy fuck! <user> nails it with both <answer>! <points>!",
     "Good one <user>, <answer> are correct! Have <points>!",
-    "Good one <user>, Check <user>'s computer, Google is opened!",
+    "Good one <user>. Check <user>'s computer! Google is opened!",
     "Yes <user>, those are both right! <answer> get you <points>."
   ],
   "correctAnswers": [
@@ -70,78 +73,129 @@
   ],
   "questionPrepFirst": [
     "Ok, let's go! Here's the first question...",
-    "Ok, let's go! Here's the first question...you bastards!"
+    "Ok, let's go! Here's the first question... you bastards!",
+    "Ugh. Starting again? So tired of you retards... Better give me better answers."
   ],
   "questionPrep": [
-    "Here's the next question...",
+    "Here's the next question for ya, losers...",
+    "Look, a new question. Oh, joy...",
     "Ok, question number <number>...",
-    "Now for question <number>...",
+    "Is it still question <number>? I'm so tired.",
+    "Now for question <number>... When will this end? So tired of hearing dumb answers.",
     "Next question <number>...",
-    "Next question <number>...noobs"
+    "Next question <number>... noobs.",
+    "Ah crap. Another question. Kill me now.",
+    "Sorry if I'm repeating questions. I'm not perfect. Fork & fix me."
   ],
   "questionPrepLast": [
-    "This is the last question!",
+    "This is the last question! I can't stand you niggas anymore.",
     "Here comes the final question...",
-    "Here comes the final question...before I GTFO"
+    "Here comes the final question... before I GTFO."
   ],
   "questionTimeout": [
     "Time's up!",
-    "Time's up! slow brains",
-    "Time's up!.. idiots",
+    "Gave you enough time. You still couldn't.",
+    "Time's up! Slow brains.",
+    "Time's up! Eeedeeyooots...",
     "Bong! Time has run out on that one...",
+    "Bong! Time has run out on that one... Embarassing.",
     "Nope? Ok, let's move on."
   ],
   "incorrectAnswer": [
+    "How about I leave the channel?",
+    "I should make the #dumbmorons channel for you.",
+    "#ThanksAbnoy",
+    "Trolololol",
+    "You're so funny.",
+    "You serious, bro?",
+    "You mad, bro?",
+    "Uhhh, okayyyy...",
     "Nope...",
-    "Are you that stupid?...",
-    "Nope...you retard!",
-    "No, fuck you!...",
+    "Are you that stupid?",
+    "Nope... you retard!",
+    "No, fuck you!",
     "Incorrect",
-    "Incorrect idiot!",
+    "Incorrect, idiot!",
     "That's not it.",
     "That's not it, motherfucker!",
     "Wrong!",
     "Wrong motherhood, neighborfucker!",
     "Not the right answer...",
     "Not the right answer... noob!",
-    "Can you think of a better one?"
+    "Can you think of a better one?",
+    "You wot, m8?",
+    "My great grandmother can type faster than you.",
+    "Do you want a fist fight?",
+    "Can we have you kicked?",
+    "The exit is over there.",
+    "Stop wasting my time.",
+    "Whuuuuuuuut??",
+    "Dude, GTFO.",
+    "Please go on 9GAG instead if you're trying to be funny.",
+    "Hahahaha. Sure oi!",
+    "Taka lang!",
+    "Trying my best to stay calm.",
+    "Suuus. Server host, please kill me now.",
+    "DMD.",
+    "Maybe you should try eating once in a while.",
+    "No, you are!",
+    "Ew, Peenoise dumb answer.",
+    "I want to pick up a bible. And slap you with it.",
+    "Problem?",
+    "Naw, shit!",
+    "Let me force choke you.",
+    "No, fuck you.",
+    "Starting to hate this job, really.",
+    "Your breath smells like you drank from the toilet this morning.",
+    "There's no programmer in the world smart enough to write code to understand what you just typed."
   ],
   "correctAnswerSingle": [
-    "The correct answer is <data>",
+    "The correct answer is <data>.",
+    "Ugh, you guys are so slow. The correct answer is <data>.",
     "The answer is <data>",
+    "The answer is <data>. You people should read more often.",
     "It was actually <data>!",
-    "I was looking for <data> there.",
-    "<data> is what I wanted to hear there."
+    "It was actually <data>! Should I reduce my difficulty for you, kids?",
+    "I was looking for <data> there. Nobody got it. Boohoo.",
+    "<data> is what I wanted to hear there.",
+    "Not so good at guessing, are you people? Lame. Answer is <data>."
   ],
   "correctAnswerMultiple": [
     "The correct answers were <data>",
-    "The answers are <data>",
-    "I was looking for <data>!"
+    "I give up on you people. The answers are <data>",
+    "I was looking for <data>! Was that so difficult? Sheesh."
   ],
   "leads": [
     "leads",
+    "is the least dumb of them all",
     "heads the board",
-    "is in front"
+    "is in front",
+    "is best cheater ever",
+    "is OWNING"
   ],
   "wins": [
     "wins",
     "triumphs",
     "is victorious",
-    "is motherfucking victorious cheater"
+    "is a motherfucking victorious cheater"
   ],
   "latestScores": [
     "Here are the scores :trophy: ",
     "Let's have a look at the leaderboard :trophy:",
-    "Who's winning so far? :trophy:",
-    "The scores on the doors... :trophy:"
+    "Who's the best cheater? :trophy:",
+    "The scores on the doors... :trophy:",
+    "Can you stop asking me for scores?"
   ],
   "finalScores": [
     "Here are the final scores :trophy: ",
     "Let's have a look at the final leaderboard :trophy:",
-    "So who won? :trophy:"
+    "So who won? :trophy:",
+    "So who's the fastest Googler?"
   ],
   "closer": [
     "That's a wrap, see you later everyone! :wave:",
-    "Thanks for playing everyone! :clap:"
+    "Thanks for playing everyone! :clap:",
+    "It's over! Yes! You can all go to hell.",
+    "Finally over. Now, I can rest. :clap:"
   ]
 }
