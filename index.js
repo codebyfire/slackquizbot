@@ -192,10 +192,15 @@ QuizBot.prototype.onQuestionPrepped = function(quiz, questionIndex) {
 };
 QuizBot.prototype.onQuestionStarted = function(quiz, question) {
 	var pointsPrefix = "";
+	var text;
 	if(question.points > 1 || question.answerCount > 1) {
 		pointsPrefix = "For " + question.points + " point" + (question.points != 1 ? "s" : "") + (question.answerCount > 1 ? " each" : "") + ", ";
-	} 
-	var text = pointsPrefix + "*" + question.text.substring(0, 1).toLowerCase() + question.text.substring(1) + "* " + (question.image != null ? question.image : "");
+		text = pointsPrefix + "*" + question.text.substring(0, 1).toLowerCase() + question.text.substring(1) + "* " + (question.image != null ? question.image : "");
+	}
+   	else{
+		text = question.text + "* " + (question.image != null ? question.image : "");
+	
+	}	
 	this.slack.sendMsg(quiz.slackChannel, text);
 };
 QuizBot.prototype.onQuestionTimeout = function(quiz, question) {
