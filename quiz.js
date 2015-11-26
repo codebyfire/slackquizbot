@@ -201,9 +201,20 @@ Quiz.prototype.addScore = function(user, points) {
         this.scores.push({"user":user, "points":points});
     }
 }
+
+function sortScores(a, b){
+	if(a.points == b.points ){
+		return 0;
+	}
+	else{
+		return (a.points < b.points) ? 1 : -1;
+	}
+}
+
 Quiz.prototype.getScores = function(verb) {
     var text = "";
     var len = this.scores.length;
+    this.scores.sort(sortScores);
     for(var i=0; i<len; i++) {
         var username = "<@" + this.scores[i].user + ">";
         if(i > 1 && i < len-1) text += ", ";
