@@ -34,13 +34,14 @@
 	],
 	"correctAnswer":[
 		"<user> nails it with <answer>! That's <points>.",
+		"Motherfcuking <user> nails it with <answer>! That's <points>.",
 		"<user> has got it! It was <answer>! <points>.",
 		"Well done <user>, <answer> is correct for <points>!",
 		"<answer>! Yes <user>, that's right! <points> to you.",
 		"Yes! <points> to <user> for <answer>."
 	],
 	"correctAnswers2":[
-		"<user> nails it with both <answer>! <points>!",
+		"Hoky fuck! <user> nails it with both <answer>! <points>!",
 		"Good one <user>, <answer> are correct! Have <points>!",
 		"Yes <user>, those are both right! <answer> get you <points>."
 	],
@@ -65,6 +66,7 @@
 		"Here's the next question...",
 		"Ok, question number <number>...",
 		"Now for question <number>..."
+		"Next question <number>...noobs"
 	],
 	"questionPrepLast":[
 		"This is the last question!",
@@ -77,10 +79,15 @@
 	],
 	"incorrectAnswer":[
 		"Nope...",
+		"No, fuck you!...",
 		"Incorrect",
+		"Incorrect idiot!",
 		"That's not it.",
+		"That's not it, motherfucker!",
 		"Wrong!",
+		"Wrong motherhood, neighborfucker!",
 		"Not the right answer..."
+		"Not the right answer..., noob!"
 	],
 	"correctAnswerSingle":[
 		"The correct answer is <data>",
