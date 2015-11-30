@@ -203,10 +203,9 @@ Quiz.prototype.addScore = function(user, points) {
 }
 
 function sortScores(a, b){
-	if(a.points == b.points ){
+	if(a.points == b.points) {
 		return 0;
-	}
-	else{
+	}else{
 		return (a.points < b.points) ? 1 : -1;
 	}
 }

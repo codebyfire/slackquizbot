@@ -2,7 +2,7 @@ var fs = require('fs');
 var SlackAPI = require('slackbotapi');
 var Quiz = require('./quiz.js');
 
-function QuizBot(slackToken) {
+function QuizBot(slackToken, locale) {
 	this.slack = new SlackAPI({
 		'token': slackToken,
 		'logging': false
@@ -13,19 +13,29 @@ function QuizBot(slackToken) {
 	this.slack.on('file_shared', this.onFileShared.bind(this));
 	
 	this.quizzes = [];
-	
-	this.loadLocale('en');
+	this.locale = locale;
 }
 
 QuizBot.prototype.loadLocale = function(lang) {
-    fs.readFile(__dirname + '/locale/' + lang + '.json', 'utf8', function(err, data) {
-        if (err) {
-            console.log(err);
-            return;
-        }
-        this.locale = JSON.parse(data);
-    }.bind(this));
+	var isLocalSuccess = this.tryLoadLocale('locale/' + lang + '.json');
+	if(!isLocalSuccess) {
+		var isBuiltInSuccess = this.tryLoadLocale(__dirname + '/locale/' + lang + '.json');
+		if(!isBuiltInSuccess) {
+			this.onLocaleLoadFailed(lang);
+			return false;
+		}
+	}
+	return true;
 };
+QuizBot.prototype.tryLoadLocale = function(filePath) {
+	try {
+		var data = fs.readFileSync(filePath, 'utf8');
+		this.locale = JSON.parse(data);
+		return true;	
+	}catch (e) {
+		return false;
+	}
+}
 QuizBot.prototype.getLocale = function(quiz, id) {
 	if(quiz != null) {
 		var customQuizLocale = quiz.getCustomLocale(id);
@@ -40,6 +50,9 @@ QuizBot.prototype.getLocale = function(quiz, id) {
 	}else{
 		return "Oops, I don't have locale for " + id;
 	}
+};
+QuizBot.prototype.onLocaleLoadFailed = function(lang) {
+    this.slack.sendMsg(slackChannel, this.getLocale(null, quizId.length == 0 ? 'quizLoadFailedEmpty' : 'quizLoadFailed').replace("<quizId>", quizId));// + " [" + err + "]");
 };
 
 QuizBot.prototype.saveQuizToDisk = function(name, url, slackChannel) {
@@ -279,9 +292,14 @@ QuizBot.prototype.getQuizByChannel = function(slackChannel) {
 //	Slack handlers
 //************************
 QuizBot.prototype.onConnectToSlack = function(data) {
-    this.name = this.slack.slackData.self.name;
+	this.name = this.slack.slackData.self.name;
 	this.id = this.slack.slackData.self.id;
-	console.log("Quizbot [" + this.name + "] is up and running!");
+	
+	if(this.loadLocale(this.locale)) {
+		console.log("Quizbot [" + this.name + "] is up and running!");
+	}else{
+		console.log("Quizbot [" + this.name + "] could not load '" + this.locale + "' locale file");
+	}
 };
 
 QuizBot.prototype.onSlackMessage = function(slackMsgData) {
