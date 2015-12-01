@@ -1,0 +1,367 @@
+{
+  "questions": [
+    {
+      "text": "What is the only number that has the same number of letters as its meaning?",
+      "answers": [
+        {
+          "text": [
+            "4",
+            "four"
+          ]
+        }
+      ],
+      "points": 1
+    },
+    {
+      "text": "Which number does not have its own Roman numeral?",
+      "answers": [
+        {
+          "text": [
+            "zero",
+            "0"
+          ]
+        }
+      ],
+      "points": 1
+    },
+    {
+      "text": "What are the first 6 decimal places of pi? Clue: \"I wish I could calculate pi\"",
+      "answers": [
+        {
+          "text": [
+            "141592"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the first high number that contains the letter 'a'? Clue: between 500-1500.",
+      "answers": [
+        {
+          "text": [
+            "one thousand",
+            "1000",
+            "1,000"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The only number to have its letters in alphabetical order is -----.",
+      "answers": [
+        {
+          "text": [
+            "Forty",
+            "40"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Numbers on opposite faces of a dice add up to what number?",
+      "answers": [
+        {
+          "text": [
+            "7",
+            "seven"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "There are 64 1x1 square on a chessboard. How many 7x7 squares are there?",
+      "answers": [
+        {
+          "text": [
+            "Four",
+            "4"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the only even prime number?",
+      "answers": [
+        {
+          "text": [
+            "Two",
+            "2"
+          ]
+        }
+      ],
+      "points": 2
+    },
+    {
+      "text": "It should take no more than -- moves to solve a Rubiks cube no matter which of the 43 quintillion possible starting positions you begin with. Clue: two digits.",
+      "answers": [
+        {
+          "text": [
+            "Twenty",
+            "20"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "From the Latin word aequalis as meaning uniform.",
+      "answers": [
+        {
+          "text": [
+            "equal",
+            "="
+          ]
+        }
+      ]
+    },
+    {
+      "text": "If all numbers are arranged alphabetically, which number comes first?",
+      "answers": [
+        {
+          "text": [
+            "8",
+            "eight"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "This is known as the Feynman Point is the first time a digit repeats six times in succession in pi at the 762nd position where you can find the number nine repeating how many times?",
+      "answers": [
+        {
+          "text": [
+            "6",
+            "six"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What are the first eight digits of pi? Clue: May I have a large container of coffee?",
+      "answers": [
+        {
+          "text": [
+            "3.1415926"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the billionth digit of pi?",
+      "answers": [
+        {
+          "text": [
+            "9",
+            "nine"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "-------- is the mathematical term of the straight division bar in a fraction.",
+      "answers": [
+        {
+          "text": [
+            "vinculum"
+          ]
+        }
+      ],
+      "points": 3
+    },
+    {
+      "text": "The symbol for division (÷) is called ------.",
+      "answers": [
+        {
+          "text": [
+            "obelus"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The division slash (/) is called -------.",
+      "answers": [
+        {
+          "text": [
+            "virgule"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who started college at the age of 8 and invented the Cartesian plane.",
+      "answers": [
+        {
+          "text": [
+            "Rene Descarte"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the place or point where a graph crosses the axis better known as?",
+      "answers": [
+        {
+          "text": [
+            "intercept"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "In strict mathematical language, ------ refers to the boundary of the shape while ‘disk’ is used to refer to the whole shape, including the inside.",
+      "answers": [
+        {
+          "text": [
+            "circle"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "A straight line from the center of a circle to the edge is called the -----.",
+      "answers": [
+        {
+          "text": [
+            "radius"
+          ]
+        }
+      ],
+      "points": 1
+    },
+    {
+      "text": "An --- is part of the circumference of a circle.",
+      "answers": [
+        {
+          "text": [
+            "arc"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "A ------- is a straight line that touches a single point of a circle.",
+      "answers": [
+        {
+          "text": [
+            "tangent"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "A ------ is the region between an arc and two radii, not slice.",
+      "answers": [
+        {
+          "text": [
+            "sector"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Known for his Pythagorean theorem relating to the three sides of a right angle triangle.",
+      "answers": [
+        {
+          "text": [
+            "Pythagoras"
+          ]
+        }
+      ],
+      "points": 1
+    },
+    {
+      "text": "Referred to as the ‘Father of Geometry’ for his revolutionary ideas and influential textbook called ‘Elements’ that he wrote around the year 300 BC. Clue: one word, starts with E.",
+      "answers": [
+        {
+          "text": [
+            "euclid"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Discovered the laws of physics. Clue: that apple falling on head guy.",
+      "answers": [
+        {
+          "text": [
+            "Isaac Newton"
+          ]
+        }
+      ],
+      "points": 1
+    },
+    {
+      "text": "In 1642, this French mathematician invented the mechanical calculator. Clue: family name is a programming language.",
+      "answers": [
+        {
+          "text": [
+            "Blaise Pascal"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What time is Pi day ideally celebrated?",
+      "answers": [
+        {
+          "text": [
+            "1:59"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What are the 8 *llions that come after a million, billion and trillion?",
+      "answers": [
+        {
+          "text": [
+            "quadrillion"
+          ]
+        },
+        {
+          "text": [
+            "quintillion"
+          ]
+        },
+        {
+          "text": [
+            "sextillion"
+          ]
+        },
+        {
+          "text": [
+            "septillion"
+          ]
+        },
+        {
+          "text": [
+            "octillion"
+          ]
+        },
+        {
+          "text": [
+            "nonillion"
+          ]
+        },
+        {
+          "text": [
+            "decillion"
+          ]
+        },
+        {
+          "text": [
+            "undecillion"
+          ]
+        }
+      ],
+      "points": 2
+    }
+  ],
+  "settings": {
+    "startQuestionGap": 3,
+    "questionTime": 90,
+    "nextQuestionGap": 10,
+    "pointsPerQuestion": 3,
+    "randomise": true
+  }
+}
