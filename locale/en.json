@@ -147,7 +147,8 @@
     "No, fuck you.",
     "Starting to hate this job, really.",
     "Your breath smells like you drank from the toilet this morning.",
-    "There's no programmer in the world smart enough to write code to understand what you just typed."
+    "There's no programmer in the world smart enough to write code to understand what you just typed.",
+    "PUT TANK IN A MALL!"
   ],
   "correctAnswerSingle": [
     "The correct answer is <data>.",
@@ -158,7 +159,8 @@
     "It was actually <data>! Should I reduce my difficulty for you, kids?",
     "I was looking for <data> there. Nobody got it. Boohoo.",
     "<data> is what I wanted to hear there.",
-    "Not so good at guessing, are you people? Lame. Answer is <data>."
+    "Not so good at guessing, are you people? Lame. Answer is <data>.",
+    "<data>. Easy. You couldn't get it. :sad:"
   ],
   "correctAnswerMultiple": [
     "The correct answers were <data>",

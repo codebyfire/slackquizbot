@@ -1,0 +1,211 @@
+{
+  "questions": [
+    {
+      "text": "talad",
+      "answers": [
+        {
+          "text": [
+            "table"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "espeho",
+      "answers": [
+        {
+          "text": [
+            "mirror"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "lawak",
+      "answers": [
+        {
+          "text": [
+            "room"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "balak",
+      "answers": [
+        {
+          "text": [
+            "poem"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "gumalaysay",
+      "answers": [
+        {
+          "text": [
+            "essay"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "mantala",
+      "answers": [
+        {
+          "text": [
+            "publish"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "abtanan",
+      "answers": [
+        {
+          "text": [
+            "hotel"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "abiso",
+      "answers": [
+        {
+          "text": [
+            "warning"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "agiw",
+      "answers": [
+        {
+          "text": [
+            "ash"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "ahak",
+      "answers": [
+        {
+          "text": [
+            "gross"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "bansilag",
+      "answers": [
+        {
+          "text": [
+            "motto"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "pang-ukoy",
+      "answers": [
+        {
+          "text": [
+            "espionage"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "haylo",
+      "answers": [
+        {
+          "text": [
+            "entice"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "hamtong",
+      "answers": [
+        {
+          "text": [
+            "mature"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "hamugaway",
+      "answers": [
+        {
+          "text": [
+            "comfortable"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "hulaw",
+      "answers": [
+        {
+          "text": [
+            "drought"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "bahak",
+      "answers": [
+        {
+          "text": [
+            "lesions"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "buwangan",
+      "answers": [
+        {
+          "text": [
+            "cockpit"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "hunta",
+      "answers": [
+        {
+          "text": [
+            "board"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "sulog",
+      "answers": [
+        {
+          "text": [
+            "current"
+          ]
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "startQuestionGap": 3,
+    "questionTime": 60,
+    "nextQuestionGap": 10,
+    "pointsPerQuestion": 1,
+    "randomise": false
+  }
+}

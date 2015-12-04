@@ -16,8 +16,7 @@
       "answers": [
         {
           "text": [
-            "Quicksort",
-            "quicksort"
+            "quick"
           ]
         }
       ]
@@ -165,7 +164,8 @@
       "answers": [
         {
           "text": [
-            "Tim Berners-Lee"
+            "Tim Berners-Lee",
+            "Tim Berners Lee"
           ]
         }
       ]
@@ -338,7 +338,8 @@
       "answers": [
         {
           "text": [
-            "QuickTime"
+            "QuickTime",
+            "mov"
           ]
         }
       ]
@@ -503,7 +504,7 @@
       ]
     },
     {
-      "text": "What preinstalled Windows game was secretly intended to increase mouse proficiency?",
+      "text": "What game application was secretly intended to increase mouse proficiency?",
       "answers": [
         {
           "text": [
