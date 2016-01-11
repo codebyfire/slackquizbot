@@ -1,0 +1,129 @@
+{
+  "questions": [
+    {
+      "text": "What bill did Tony Stark supported that caused the civil war? Abbreviation lang para mobo!",
+      "answers": [
+        {
+          "text": [
+            "SHRA",
+            "shra",
+            "S.H.R.A"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who were the opposing side leaders during the civil war?",
+      "answers": [
+        {
+          "text": [
+            "Tony Stark",
+            "Iron Man"
+          ]
+        },
+        {
+          "text": [
+            "Steve Rogers",
+            "Captain America"
+          ]
+        }
+      ],
+      "points": 2
+    },
+    {
+      "text": "Where did the explosion happened that killed a lot of innocent people and triggered the Super Human Registration Act?",
+      "answers": [
+        {
+          "text": [
+            "Stamford"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Did deadpool support the Super Human Registration Act?",
+      "answers": [
+        {
+          "text": [
+            "Yes"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who was accused in the explosion incident in Stamford? Who actually caused the explosion?",
+      "answers": [
+        {
+          "text": [
+            "Speed ball",
+            "Speedball"
+          ]
+        },
+        {
+          "text": [
+            "Nitro",
+            "nitro"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who was the most hated man in america during the civil war?",
+      "answers": [
+        {
+          "text": [
+            "Speedball",
+            "speedball"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Those who did not register to the Super Hero Registration Act are imprisoned in?",
+      "answers": [
+        {
+          "text": [
+            "Negative Zone"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Where did the \"Thing\" of the fantastic four fled to avoid the war?",
+      "answers": [
+        {
+          "text": [
+            "Paris"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The prince of Wakanda, T'Challa Udaku is?",
+      "answers": [
+        {
+          "text": [
+            "Black Panther"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which superhero married black panther and became the queen of Wakanda?",
+      "answers": [
+        {
+          "text": [
+            "Storm"
+          ]
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "startQuestionGap": 3,
+    "questionTime": 60,
+    "nextQuestionGap": 10,
+    "pointsPerQuestion": 1,
+    "randomise": true
+  }
+}
