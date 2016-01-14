@@ -1,0 +1,227 @@
+{
+  "questions": [
+    {
+      "text": "The Sinulog dance moves --- steps forward and --- step backward to the sound of the drums.",
+      "answers": [
+        {
+          "text": [
+            "2 1",
+            "21",
+            "two one",
+            "two, one"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What does \"Pit\" in \"Pit Senyor\" mean? -------",
+      "answers": [
+        {
+          "text": [
+            "sangpit"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Magellan gave the Santo Niño ( image of the Child Jesus ) as baptismal gift to Hara Amihan, wife of Cebu's Rajah Humabon who was later named Queen -----.",
+      "answers": [
+        {
+          "text": [
+            "juana"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Old name of the Basilica Minore del Santo Niño. San -------",
+      "answers": [
+        {
+          "text": [
+            "agustin"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which day of January is Sinulog always held?",
+      "answers": [
+        {
+          "text": [
+            "3rd sunday",
+            "third sunday"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What year in the 80s did David S. Odilao, Jr., then Regional Director of the Ministry of Sports and Youth Development (MYSD), organize the first ever Sinulog parade?",
+      "answers": [
+        {
+          "text": [
+            "1980"
+          ]
+        }
+      ],
+      "points": 2
+    },
+    {
+      "text": "The coat of arms of the Santo Niño bears a two- headed hawk, the mark of the House of -------- in Europe.",
+      "answers": [
+        {
+          "text": [
+            "hapsburg"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The dance moves to the sound of the drums and this resembles the current (Sinulog) of what was then known as Cebu's ------ River",
+      "answers": [
+        {
+          "text": [
+            "pahina"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "How many periods of history are supposedly depicted by the floats? Clue: one digit",
+      "answers": [
+        {
+          "text": [
+            "seven",
+            "7"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Before it was called Miss Cebu starting in 1988, what was the name of this pageant?",
+      "answers": [
+        {
+          "text": [
+            "sinulog"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Two arts organizations doing annual demonstration to keep the Sinulog parade contestants in alignment with the festival. Clue: NCCA and PFDS",
+      "answers": [
+        {
+          "text": [
+            "National Commission of Culture and the Arts",
+            "National Commission of Culture and Arts",
+            "National Commission of Culture & Arts"
+          ]
+        },
+        {
+          "text": [
+            "Philippine Folk Dance Society"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "She is the winner of Sinulog lead dancer category. -------- -----",
+      "answers": [
+        {
+          "text": [
+            "Festival Queen"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Sinulog Foundation Board of Directors' Chairman of the Board.",
+      "answers": [
+        {
+          "text": [
+            "Michael Rama"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Organized by the Augustinian order, the festival begins and ends in ------.",
+      "answers": [
+        {
+          "text": [
+            "church"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "It has been a tradition to have the image of the Child Jesus visit His parents before His grand day. The icon will be leaving His home in the Basilica del Sto. Niño which is in the heart of Cebu City and will be paraded to His foster father what parish in Mandaue City?",
+      "answers": [
+        {
+          "text": [
+            "St Joseph",
+            "St. Joseph",
+            "Joseph"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "After an overnight stay with His father before His grand day, He will be voyaging His way to His mother in ---- ---- city.",
+      "answers": [
+        {
+          "text": [
+            "Lapu-Lapu",
+            "Lapu Lapu"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the URL of the official website of the Sinulog Foundation, the organization behind all this?",
+      "answers": [
+        {
+          "text": [
+            "sinulog.ph"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The Sinulog is a festival which is seen to honor and connect both of the Cebuanos’ ----- past and Christian present.",
+      "answers": [
+        {
+          "text": [
+            "pagan"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What year was a Miss Cebu candidate disqualified due to her lacking a few days for the required age?",
+      "answers": [
+        {
+          "text": [
+            "2007"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "One of Legaspi's men who discovered the image of the Santo Niño inside a wooden box beside other idols. Clue: JC",
+      "answers": [
+        {
+          "text": [
+            "Juan Camus"
+          ]
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "startQuestionGap": 3,
+    "questionTime": 60,
+    "nextQuestionGap": 10,
+    "pointsPerQuestion": 3,
+    "randomise": true
+  }
+}
