@@ -1,0 +1,345 @@
+{
+  "questions": [
+    {
+      "text": "What planet in our solar system was previously known as Georgium Sidis?",
+      "answers": [
+        {
+          "text": [
+            "Uranus"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The dwarf planet Pluto can be found in an area in our solar system known as the \"------ ----\".",
+      "answers": [
+        {
+          "text": [
+            "Kuiper Belt"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The ---- --- was a state of political and military tension after World War II between powers in the Western Bloc (the United States, its NATO allies and others) and powers in the Eastern Bloc (the Soviet Union and its allies in the Warsaw Pact).",
+      "answers": [
+        {
+          "text": [
+            "Cold War"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The canal-like area between our nose and lip is called the --------.",
+      "answers": [
+        {
+          "text": [
+            "philtrum"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Jupiter, Saturn, Neptune, and Uranus are collectively known as gas giants or ------ -------.",
+      "answers": [
+        {
+          "text": [
+            "Jovian planets"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who lives in a pineapple under the sea?",
+      "answers": [
+        {
+          "text": [
+            "Spongebob Squarepants"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The three starter pokemons from the first generation are who?",
+      "answers": [
+        {
+          "text": [
+            "Bulbasaur"
+          ]
+        },
+        {
+          "text": [
+            "Charmander"
+          ]
+        },
+        {
+          "text": [
+            "Squirtle"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Name the five animals that the Mighty Morphin Power Rangers used as zords.",
+      "answers": [
+        {
+          "text": [
+            "Mastodon"
+          ]
+        },
+        {
+          "text": [
+            "Triceratops"
+          ]
+        },
+        {
+          "text": [
+            "Pterodactyl"
+          ]
+        },
+        {
+          "text": [
+            "Sabretooth Tiger",
+            "Sabertooth Tiger"
+          ]
+        },
+        {
+          "text": [
+            "Tyrannosaurus Rex",
+            "T-Rex",
+            "Tyrannosaurus"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What famous brand has a siren as its logo?",
+      "answers": [
+        {
+          "text": [
+            "Starbucks"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Name the four countries that belong in the UK.",
+      "answers": [
+        {
+          "text": [
+            "England"
+          ]
+        },
+        {
+          "text": [
+            "Scotland"
+          ]
+        },
+        {
+          "text": [
+            "Wales"
+          ]
+        },
+        {
+          "text": [
+            "Northern Ireland"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the name of the lottery that has the highest payout of 1.6B USD?",
+      "answers": [
+        {
+          "text": [
+            "Powerball"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "My -------- don't want none unless you got buns, hun.",
+      "answers": [
+        {
+          "text": [
+            "anaconda"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Name the animated movie which takes place in a video game arcade.",
+      "answers": [
+        {
+          "text": [
+            "Wreck-it Ralph",
+            "Wreck It Ralph"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The chemical symbol for antimony is --.",
+      "answers": [
+        {
+          "text": [
+            "Sb"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Krypton, Xenon, and Helium are part of a group of chemical elements called ----- -----.",
+      "answers": [
+        {
+          "text": [
+            "Noble gases"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What international award-giving body was established by the person who invented dynamite?",
+      "answers": [
+        {
+          "text": [
+            "Nobel Prize"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which US actor is the voice of Mr Fox in the 2009 animated film ‘Fantastic Mr Fox’?",
+      "answers": [
+        {
+          "text": [
+            "George Clooney"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who was the reigning British monarch when USA declared its independence?",
+      "answers": [
+        {
+          "text": [
+            "King George III"
+          ]
+        },
+        {
+          "text": [
+            "George III"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which Philippine hero also used the pseudonym \"Dimasalang\"?",
+      "answers": [
+        {
+          "text": [
+            "Jose Rizal"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Java, currently owned by Oracle, was created by which software company?",
+      "answers": [
+        {
+          "text": [
+            "Sun Microsystems"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "St. Nicholas is known as Sinterklaas in which country?",
+      "answers": [
+        {
+          "text": [
+            "Netherlands"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Enumerate the Japanese names of Eugene, Vincent, Alfred, and Dennis, from Ghost Fighter.  First names will do.",
+      "answers": [
+        {
+          "text": [
+            "Yusuke"
+          ]
+        },
+        {
+          "text": [
+            "Kuwabara"
+          ]
+        },
+        {
+          "text": [
+            "Kurama"
+          ]
+        },
+        {
+          "text": [
+            "Hiei"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "----- a metal or plastic tube fixed tightly around each end of a shoelace.",
+      "answers": [
+        {
+          "text": [
+            "Aglet"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "------- ------ is used in reference to the phenomenon whereby a computer-generated figure or humanoid robot bearing a near-identical resemblance to a human being arouses a sense of unease or revulsion in the person viewing it.",
+      "answers": [
+        {
+          "text": [
+            "Uncanny valley"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Name the four Teletubbies.",
+      "answers": [
+        {
+          "text": [
+            "Tinky Winky"
+          ]
+        },
+        {
+          "text": [
+            "Dipsy"
+          ]
+        },
+        {
+          "text": [
+            "Lala"
+          ]
+        },
+        {
+          "text": [
+            "Po"
+          ]
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "startQuestionGap": 3,
+    "questionTime": 60,
+    "nextQuestionGap": 10,
+    "pointsPerQuestion": 1,
+    "randomise": false
+  }
+}

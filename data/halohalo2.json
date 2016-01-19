@@ -1,0 +1,376 @@
+{
+  "questions": [
+    {
+      "text": "The language family that descended from Latin are called the ------- languages.",
+      "answers": [
+        {
+          "text": [
+            "Romance"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Enumerate the five biggest Romance languages.",
+      "answers": [
+        {
+          "text": [
+            "Spanish"
+          ]
+        },
+        {
+          "text": [
+            "Portuguese"
+          ]
+        },
+        {
+          "text": [
+            "French"
+          ]
+        },
+        {
+          "text": [
+            "Italian"
+          ]
+        },
+        {
+          "text": [
+            "Romanian"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The \"corn\" in corned beef does not actually refer to the vegetable but to ----.",
+      "answers": [
+        {
+          "text": [
+            "salt"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The main character of Jose Rizal's \"El Filibusterismo\" is the wealthy jeweler named ------.",
+      "answers": [
+        {
+          "text": [
+            "Simoun"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "As per Q4, Simoun is actually the new identity of ---------- ------.",
+      "answers": [
+        {
+          "text": [
+            "Crisostomo Ibarra",
+            "Crisostomo Ibarra"
+          ]
+        }
+      ],
+      "points": 5
+    },
+    {
+      "text": "In Dragonball Z, Goku's skill \"Spirit bomb\" is known in Japanese as ----- ----.",
+      "answers": [
+        {
+          "text": [
+            "Genki dama"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What international company has its logo called \"The Golden Arches\"?",
+      "answers": [
+        {
+          "text": [
+            "McDonalds"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Who was the last Airbender, who would later on become the Avatar?",
+      "answers": [
+        {
+          "text": [
+            "Aang"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The \"G\" in saxophonist Kenny G's name is what?",
+      "answers": [
+        {
+          "text": [
+            "Gorelick"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Which video game character is also known as the \"Blue Bomber\"?",
+      "answers": [
+        {
+          "text": [
+            "Megaman",
+            "Rockman"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "This Austrian archduke's assassination started World War I.  Who is he?",
+      "answers": [
+        {
+          "text": [
+            "Franz Ferdinand"
+          ]
+        }
+      ],
+      "points": 2
+    },
+    {
+      "text": "In Street Fighter lore, who were the original Four Kings?",
+      "answers": [
+        {
+          "text": [
+            "M. Bison",
+            "Bison",
+            "M Bison"
+          ]
+        },
+        {
+          "text": [
+            "Vega"
+          ]
+        },
+        {
+          "text": [
+            "Balrog"
+          ]
+        },
+        {
+          "text": [
+            "Sagat"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "ENIAC was the first electronic general-purpose computer.  Define ENIAC.",
+      "answers": [
+        {
+          "text": [
+            "Electronic Numerical Integrator And Computer"
+          ]
+        }
+      ],
+      "points": 5
+    },
+    {
+      "text": "The first \"P\" on the server-side scripting language PHP is?",
+      "answers": [
+        {
+          "text": [
+            "PHP"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "A ---------- is a word, phrase, number, or other sequence of characters which reads the same backward or forward.  Example: racecar.",
+      "answers": [
+        {
+          "text": [
+            "palindrome"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Enumerate the three legendary birds from the Pokemon first generation.",
+      "answers": [
+        {
+          "text": [
+            "Articuno"
+          ]
+        },
+        {
+          "text": [
+            "Zapdos"
+          ]
+        },
+        {
+          "text": [
+            "Moltres"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "This Latin phrase means \"where are you going?\" in English",
+      "answers": [
+        {
+          "text": [
+            "Quo vadis?",
+            "Quo vadis"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "------ -- is the phenomenon of experiencing a situation that one recognizes in some fashion, but that nonetheless seems very unfamiliar.  It's kind of like an opposite to deja vu.",
+      "answers": [
+        {
+          "text": [
+            "Jamais vu"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Norway, Sweden, and Finland are just three countries that use a cross design on their flags.  What do you call this cross?",
+      "answers": [
+        {
+          "text": [
+            "Nordic cross"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the scientific name of the western lowland gorilla?",
+      "answers": [
+        {
+          "text": [
+            "Gorilla gorilla gorilla"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The term AD or A.D. is  used to label or number years in the Julian and Gregorian calendars.  Define AD.",
+      "answers": [
+        {
+          "text": [
+            "Anno domini"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The auroch is a grand extinct wild ox that is the ancenstor of the ---.",
+      "answers": [
+        {
+          "text": [
+            "Cow"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Before Elizabeth II, who was the longest reigning British monarch?",
+      "answers": [
+        {
+          "text": [
+            "Queen Victoria I",
+            "Victoria I",
+            "Victoria"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "\"Bovine spongiform encephalopathy\" is the technical term for --- --- disease.",
+      "answers": [
+        {
+          "text": [
+            "mad cow"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What is the capital city of Norway?",
+      "answers": [
+        {
+          "text": [
+            "Oslo"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "-- ----------- was an organization created in Spain on December 13, 1888, composed of Filipino liberals exiled in 1872 and students attending Europe's universities.",
+      "answers": [
+        {
+          "text": [
+            "La Solidaridad"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "This very popular game actually came from a mod of Warcraft III.",
+      "answers": [
+        {
+          "text": [
+            "DOTA"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "What are the three words to call the meat of a sheep?",
+      "answers": [
+        {
+          "text": [
+            "mutton"
+          ]
+        },
+        {
+          "text": [
+            "lamb"
+          ]
+        },
+        {
+          "text": [
+            "hogget"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "A ------- is a powerful object in which a Dark wizard or witch has hidden a fragment of his or her soul for the purpose of attaining immortality",
+      "answers": [
+        {
+          "text": [
+            "horcrux"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "This celebrity has \"Destiny Hope\" as her real first name.  Give the full name of this individual.",
+      "answers": [
+        {
+          "text": [
+            "Miley Cyrus"
+          ]
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "startQuestionGap": 3,
+    "questionTime": 60,
+    "nextQuestionGap": 10,
+    "pointsPerQuestion": 1,
+    "randomise": false
+  }
+}
