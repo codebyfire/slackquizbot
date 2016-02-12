@@ -3,6 +3,8 @@ var SlackAPI = require('slackbotapi');
 var Quiz = require('./quiz.js');
 
 function QuizBot(slackToken, locale) {
+	if (typeof locale === 'undefined') { locale = 'en'; }
+	
 	this.slack = new SlackAPI({
 		'token': slackToken,
 		'logging': false
