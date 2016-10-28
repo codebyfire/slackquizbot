@@ -1,0 +1,138 @@
+{
+  "questions": [
+    {
+      "text": "Almostallmicroprocessorsrequirea_______powersupply",
+      "answers": [
+        {
+          "text": [
+            "5Vdcregulated",
+            "Approx.300Amaxrated",
+            "5.5Vfiltered",
+            "3.5Vdcresisted"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "MicrocomputerRAMdatastorageispermanent.",
+      "answers": [
+        {
+          "text": [
+            "False",
+            "True"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "TheCPUofamicrocomputerisa/an_______calledamicroprocessor",
+      "answers": [
+        {
+          "text": [
+            "IntegratedCircuit",
+            "Busaddress",
+            "8086IBMconcept",
+            "Busdriver"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Threekindsofcommonoutputfromthemicroprocessorunitareaddressbus,databus,andcontrolbusoutputs",
+      "answers": [
+        {
+          "text": [
+            "True",
+            "False"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "With16lines,anaddressbuscanaccessupto_______separateoutputlocations.",
+      "answers": [
+        {
+          "text": [
+            "65,536",
+            "32,768",
+            "65,581",
+            "16,384"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The_______busisaone-waydatapath.",
+      "answers": [
+        {
+          "text": [
+            "Address",
+            "Wireless",
+            "School",
+            "Data"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Thegroupofinstructionsthataspecificmicroprocessorcanexecuteiscalledits_______.",
+      "answers": [
+        {
+          "text": [
+            "InstructionSet",
+            "Programlist",
+            "MatchedSet",
+            "Datacompiler"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Thekeyboardinterfaceinterruptsthemicroprocessorunitviathe_______.",
+      "answers": [
+        {
+          "text": [
+            "InterruptLine",
+            "Addressbuss",
+            "Controlbus",
+            "LocalNetwork"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The_______busisatwo-waydatapath.",
+      "answers": [
+        {
+          "text": [
+            "Data",
+            "Circuit",
+            "Loop",
+            "Address"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "A(n)_______languageuseswordsandphrasestorepresentmicroprocessorinstructions.",
+      "answers": [
+        {
+          "text": [
+            "Assembly",
+            "Machine",
+            "Compiler",
+            "Programmer's"
+          ]
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "startQuestionGap": 3,
+    "questionTime": 60,
+    "nextQuestionGap": 10,
+    "pointsPerQuestion": 1,
+    "randomise": true,
+    "totalQuestions": 10
+  }
+}
