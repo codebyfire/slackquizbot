@@ -1,0 +1,112 @@
+{
+  "questions": [
+    {
+      "text": "Ashiftinthesignalfrequencyrangeisaccomplishedby_______.",
+      "answers": [
+        {
+          "text": [
+            "modulation"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Theprimaryfunctionofthetelephonesetistoconvertspeechinto_______.",
+      "answers": [
+        {
+          "text": [
+            "electricity"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Thetwomainpartsofthetelephonesetarethebaseandhandset.",
+      "answers": [
+        {
+          "text": [
+            "True"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Whatdevelopmentsignificantlyreducedtheinvolvementofmanualcallswitching.",
+      "answers": [
+        {
+          "text": [
+            "rotarytelephone"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "In1877,AlexanderGrahamBellofferedtosellhispatenttoWesternunionfor$100,000.WesternUnionrejectedtheoffer.",
+      "answers": [
+        {
+          "text": [
+            "true"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "_______referstotheprocessofmeasuringrepresentativeportionsofasignalovertime",
+      "answers": [
+        {
+          "text": [
+            "sampling"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Becauseamplifiersperiodicallyboostsignalstrength,yellingintothetransmittercansignificantlyincreasetransmissionstrength.",
+      "answers": [
+        {
+          "text": [
+            "false"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Thetermforlosingsignalstrengthis_______.",
+      "answers": [
+        {
+          "text": [
+            "attenuation"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Amethodforgettingmoredataacrossabusycircuit.",
+      "answers": [
+        {
+          "text": [
+            "compression"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Toovercomebandwidthlimits,_______combinestwoormorepathsofcommunicationintoasinglepath.",
+      "answers": [
+        {
+          "text": [
+            "multiplexing"
+          ]
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "startQuestionGap": 3,
+    "questionTime": 60,
+    "nextQuestionGap": 10,
+    "pointsPerQuestion": 1,
+    "randomise": true,
+    "totalQuestions": 10
+  }
+}
