@@ -1,0 +1,113 @@
+{
+  "questions": [
+    {
+      "text": "Alsocalleda_______,acommondiodehastwoterminals,ananode(p-type)andcathode(n-type).",
+      "answers": [
+        {
+          "text": [
+            "rectifier"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Theidealdiodeisaperfecttwo-statedevicethatexhibits_______impedancewhenforward-biased.",
+      "answers": [
+        {
+          "text": [
+            "zero",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Threeelementsofabipolarjunctiontransistor(BJT)arebase,collectorand_______.",
+      "answers": [
+        {
+          "text": [
+            "emitter"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Twokindsoffield-effecttransistors,junctionfield-effecttransistorandmetal-oxide-_______field-effecttransistor.",
+      "answers": [
+        {
+          "text": [
+            "semiconductor"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Ahalf-waverectifierconductsovereitherthepositiveornegativehalvesoftheinput-voltagewaveform.",
+      "answers": [
+        {
+          "text": [
+            "true"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Thezenerdiodeisusedasavoltage-regulatoror_______.",
+      "answers": [
+        {
+          "text": [
+            "reference"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Back-to-backzenerdiodescanbeusedtopreventvoltage-spikes",
+      "answers": [
+        {
+          "text": [
+            "true"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Anevacuatedenclosurecontainingacathodewithaheaterthat,ananodeorplate,andgridsthatmodifytheelectronemission-attractionprocess.",
+      "answers": [
+        {
+          "text": [
+            "vacuumtube"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Inann-channelMOSFET,thegate,metaloxidefilm,andsubstrateforma______.",
+      "answers": [
+        {
+          "text": [
+            "capacitor"
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Anamplifierthatcanbeeasilymodifiedbyexternalcircuitrytoperformmathematicaloperationsinanalog-computerapplications.",
+      "answers": [
+        {
+          "text": [
+            "operationalamplifier",
+            "opamp"
+          ]
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "startQuestionGap": 3,
+    "questionTime": 60,
+    "nextQuestionGap": 10,
+    "pointsPerQuestion": 1,
+    "randomise": false
+  }
+}

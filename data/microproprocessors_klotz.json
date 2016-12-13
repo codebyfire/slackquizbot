@@ -1,0 +1,112 @@
+{
+  "questions": [
+    {
+      "text": "Almostallmicroprocessorsrequirea_______powersupply",
+      "answers": [
+        {
+          "text": [
+            "5Vdcregulated",
+          ]
+        }
+      ]
+    },
+    {
+      "text": "MicrocomputerRAMdatastorageispermanent.",
+      "answers": [
+        {
+          "text": [
+            "False",
+          ]
+        }
+      ]
+    },
+    {
+      "text": "TheCPUofamicrocomputerisa/an_______calledamicroprocessor",
+      "answers": [
+        {
+          "text": [
+            "IntegratedCircuit",
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Threekindsofcommonoutputfromthemicroprocessorunitareaddressbus,databus,andcontrolbusoutputs",
+      "answers": [
+        {
+          "text": [
+            "True",
+          ]
+        }
+      ]
+    },
+    {
+      "text": "With16lines,anaddressbuscanaccessupto_______separateoutputlocations.",
+      "answers": [
+        {
+          "text": [
+            "65,536",
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The_______busisaone-waydatapath.",
+      "answers": [
+        {
+          "text": [
+            "Address",
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Thegroupofinstructionsthataspecificmicroprocessorcanexecuteiscalledits_______.",
+      "answers": [
+        {
+          "text": [
+            "InstructionSet",
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Thekeyboardinterfaceinterruptsthemicroprocessorunitviathe_______.",
+      "answers": [
+        {
+          "text": [
+            "InterruptLine",
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The_______busisatwo-waydatapath.",
+      "answers": [
+        {
+          "text": [
+            "Data",
+          ]
+        }
+      ]
+    },
+    {
+      "text": "A(n)_______languageuseswordsandphrasestorepresentmicroprocessorinstructions.",
+      "answers": [
+        {
+          "text": [
+            "Assembly",
+          ]
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "startQuestionGap": 3,
+    "questionTime": 60,
+    "nextQuestionGap": 10,
+    "pointsPerQuestion": 1,
+    "randomise": true,
+    "totalQuestions": 10
+  }
+}

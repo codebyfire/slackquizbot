@@ -1,0 +1,50 @@
+{"questions":
+  [
+    {"text":"When was the first recognizably modern electrically powered computers were created?",
+      "answers":[{"text":["1940"]}]},
+    {"text":"What is the most in demand program language being used?",
+      "answers":[{"text":["SQL"]}]},
+    {"text":"Write a method which will remove any given character from a String?",
+      "answers":[{"text":["you can remove a given character from String by converting it into character array and then using substring() method for removing them from output string."]}]},
+    {"text":"whenwaspythonprogramminginvented","answers":[
+      {"text":["conceivedlate1980's"]}]},
+    {"text":"Co-FounderandearlyCEOoftheMicrosoftcompany.","answers":[
+      {"text":["billgates"]}]},
+    {"text":"whowasthefirstmechanicalcomputer,createdby","answers":[
+      {"text":["charlesbabbage"]}]},
+    {"text":"Who invented internet ?","answers":[
+      {"text":["ARPANET"]}],"points":2},
+    {"text":"What was the name of the first programmable computer ?","answers":[
+      {"text":["Z1"]}]},
+    {"text":"The first Macintosh was introduced ?",
+      "answers":[{"text":["January 24, 1984","1984","January 24"]}]},
+    {"text":"What is the main phrase that is repeated time and time again in Python?",
+      "answers":[{"text":["Hello World","hello world","helloworld","Helloworld","Bill Nye"]}],"time":20},
+    {"text":"Python came out as a result of boredom of its author Van Rossum during the Christmas week of 1989. True or false.",
+      "answers":[{"text":["True","true","T","t","Bill Nye"]},
+    {"text":[""]}]},{"text":"What is the answer to everything?",
+      "answers":[{"text":["Bill Nye","BillNye","bill nye","billnye"]}]},
+    {"text":"What is the most trustworthy hard drive according to backblaze?",
+      "answers":[{"text":["Hitachi GST Deskstar 7K2000 HDS722020ALA330 (0F10311) 2TB 7200 RPM 32MB Cache SATA 3.0Gb/s 3.5\" Internal Hard Drive Bare Drive","HDS722020ALA330","Hitachi GST Deskstar 7K2000","Bill Nye"]}]},
+    {"text":"Which memory device runs faster? H.D.D. or S.S.D.",
+      "answers":[{"text":["S.S.D.","S.S.D","SSD","Bill Nye"]}]},
+    {"text":"onekilobyteisequalto",
+      "answers":[{"text":["1000bytes"]}]},
+    {"text":"whichsupercomputerisdevelopedbytheIndianscientists",
+      "answers":[{"text":["Param"]}]},
+    {"text":"whatwasthefirstwebbrowser",
+      "answers":[{"text":["WorldWideWeb","worldwideweb"]}]},
+    {"text":"Before source code can be compiled, it has to be _______________",
+      "answers":[{"text":["parsed"]}]},
+    {"text":"If you needed to execute some code repeatedly based on a certain condition, which of the following would you use?",
+      "answers":[{"text":["Loop"]}]},
+    {"text":"You need special software to write programs. True or False",
+      "answers":[{"text":["False"]}]},
+  ],
+    "settings":{
+      "startQuestionGap":3,
+      "questionTime":45,
+      "nextQuestionGap":3,
+      "pointsPerQuestion":1,
+      "randomise":true}
+}
